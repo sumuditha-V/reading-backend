@@ -1,0 +1,6 @@
+@reading_tracker_backend_HostAddress = http://localhost:0
+
+GET {{reading_tracker_backend_HostAddress}}/api/reading
+Accept: application/json
+
+###

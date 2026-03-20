@@ -1,0 +1,56 @@
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/bin/Debug/net10.0/appsettings.Development.json
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/bin/Debug/net10.0/appsettings.json
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/bin/Debug/net10.0/reading-tracker-backend.staticwebassets.endpoints.json
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/bin/Debug/net10.0/reading-tracker-backend
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/bin/Debug/net10.0/reading-tracker-backend.deps.json
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/bin/Debug/net10.0/reading-tracker-backend.runtimeconfig.json
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/bin/Debug/net10.0/reading-tracker-backend.dll
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/bin/Debug/net10.0/reading-tracker-backend.pdb
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/obj/Debug/net10.0/reading-tracker-backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/obj/Debug/net10.0/reading-tracker-backend.AssemblyInfoInputs.cache
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/obj/Debug/net10.0/reading-tracker-backend.AssemblyInfo.cs
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/obj/Debug/net10.0/reading-tracker-backend.csproj.CoreCompileInputs.cache
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/obj/Debug/net10.0/reading-tracker-backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/obj/Debug/net10.0/scopedcss/bundle/reading-tracker-backend.styles.css
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/obj/Debug/net10.0/staticwebassets.build.json
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/obj/Debug/net10.0/staticwebassets.development.json
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/obj/Debug/net10.0/swae.build.ex.cache
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/obj/Debug/net10.0/reading-tracker-backend.dll
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/obj/Debug/net10.0/refint/reading-tracker-backend.dll
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/obj/Debug/net10.0/reading-tracker-backend.pdb
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/obj/Debug/net10.0/reading-tracker-backend.genruntimeconfig.cache
+/Users/realdulain/Documents/SLIIT/Y3S1/CSP - SE3022 - Case Study Project/Labs/Lab 5/reading-tracker-app/reading-tracker-backend/obj/Debug/net10.0/ref/reading-tracker-backend.dll
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\bin\Debug\net10.0\appsettings.json
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\bin\Debug\net10.0\reading-tracker-backend.staticwebassets.endpoints.json
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\bin\Debug\net10.0\reading-tracker-backend.exe
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\bin\Debug\net10.0\reading-tracker-backend.deps.json
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\bin\Debug\net10.0\reading-tracker-backend.runtimeconfig.json
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\bin\Debug\net10.0\reading-tracker-backend.dll
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\bin\Debug\net10.0\reading-tracker-backend.pdb
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\obj\Debug\net10.0\reading-tracker-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\obj\Debug\net10.0\reading-tracker-backend.AssemblyInfoInputs.cache
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\obj\Debug\net10.0\reading-tracker-backend.AssemblyInfo.cs
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\obj\Debug\net10.0\reading-tracker-backend.csproj.CoreCompileInputs.cache
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\obj\Debug\net10.0\reading-tracker-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\obj\Debug\net10.0\scopedcss\bundle\reading-tracker-backend.styles.css
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\obj\Debug\net10.0\reading-tracker-backend.dll
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\obj\Debug\net10.0\refint\reading-tracker-backend.dll
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\obj\Debug\net10.0\reading-tracker-backend.pdb
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\obj\Debug\net10.0\reading-tracker-backend.genruntimeconfig.cache
+C:\Users\athth\OneDrive\Desktop\New folder\reading-tracker-app\reading-tracker-app\reading-tracker-backend\obj\Debug\net10.0\ref\reading-tracker-backend.dll
